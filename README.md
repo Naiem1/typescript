@@ -20,7 +20,7 @@ let isPublished = true;
 console.log(sales, course, isPublished); // number, string, boolean
 ```
 
-## 5 Classes, Interfaces and Object-oriented Programming (55m)
+## 5 Classes, Interfaces and Object-oriented Programming
 
 ### 1) Introduction
 
